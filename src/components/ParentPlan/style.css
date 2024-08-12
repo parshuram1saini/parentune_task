@@ -1,0 +1,18 @@
+.choose-plan {
+}
+
+.plan-start-btn {
+    background-color: #377E8B;
+    border-radius: 25px;
+    color: #FFFFFF;
+    padding: 10px 40px;
+    width: 100%;
+    font-size: 12px;
+}
+.heading-plan{
+    font-size: 12px;
+}
+.banner{
+    width:100%;
+    height: auto;
+}
